@@ -67,7 +67,7 @@ Comments: A good practice would be that if you have full stack or front-end proj
 [Mini Project to come]
 
 
-Deliverables: 
+<b>Deliverables: </b>
 Completion of the two Mini Projects.
 Addition of these concepts to the previous week's task will be a plus.
 
@@ -75,8 +75,6 @@ Addition of these concepts to the previous week's task will be a plus.
 <h2> Week 3 </h2>
 
 Introduction to React
-
-[more to come]
   
 
 <h2> Week 4 </h2> 
