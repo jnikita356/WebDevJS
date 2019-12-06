@@ -20,7 +20,7 @@ Reading Material <more to come>:
 
 <h2> Week 1 </h2> 
 
-<b>Beginners: Foundations with HTML and CSS</b>
+<b>Foundations with HTML and CSS</b>
 
 1. HTML Tutorials from <a href = "https://www.w3schools.com/html/default.asp">W3Schools</a>, <a href = "https://codeguide.co/#html">Code Guide </a>
 
@@ -30,41 +30,30 @@ Reading Material <more to come>:
 [Project 1] <a href = "https://www.youtube.com/watch?v=OAzgHGrIHWY&list=PLJ8MMmYtV80_JcsDdNXpa3ckjd-Rh4fsD"> Sign Up Form </a>
 [Project 2] <a href = "https://medium.com/frontendshortcut/make-hogwarts-admission-form-in-html-and-css-1cdc21165997"> Hogwarts Form </a>
 
-Deliverables: 
-Complete your own HTML & CSS form using the functionalities used in the projects links provided. 
 
-
-<b>Intermediate: Revising fundamentals of HTML and CSS </b>
+<b> HTTP and Responsive Web Development </b>
 
 1. <a href = "https://launchschool.com/books/http/read/introduction">Introduction to HTTP </a>
 
-2. <a href = "https://learn.shayhowe.com/advanced-html-css/responsive-web-design/">Advanced Responsive Web Design,</a> Refer to Week 2 - Beginners 
+2. <a href = "https://learn.shayhowe.com/advanced-html-css/responsive-web-design/">Advanced Responsive Web Design</a>
 
-3. <a href = "http://jqfundamentals.com/chapter/jquery-basics">jQuery</a> 
+3. Responsive Design: <a href= "https://www.youtube.com/watch?v=VQjy_33t8cg">Media Queries</a>, <a href="https://internetingishard.com/html-and-css/responsive-images/">Responsive Images</a>, <a href ="https://www.w3schools.com/bootstrap/default.asp"> Bootstrap </a> 
+
+4. <a href = "http://jqfundamentals.com/chapter/jquery-basics">jQuery</a> 
 
 Optional Projects: 
 [Project 1]<a href = "https://www.youtube.com/watch?v=GJXXf3_dcng&t=177s"> Responsive Landing Page</a>: using HTML, CSS, jQuery
-[Project 2]<a href = "https://medium.com/frontendshortcut/how-to-make-a-polaroid-photo-gallery-in-html-and-css-d68f5a306c84"> Responsive Photo Gallery</a>: using flexbox
+[Project 2]<a href = "https://medium.com/frontendshortcut/how-to-make-a-polaroid-photo-gallery-in-html-and-css-d68f5a306c84"> Responsive Photo Gallery</a>: using flexbox 
 
-Deliverables: 
-Complete a Responsiive Website with HTML and CSS, add as many funcationalities as you like; but a basic set of fucntionalities covered in the above linked projects should be present. 
+<b>Deliverables: </b>
+Complete a Responsiive Website with HTML and CSS, add as many functionalities as you like; but a basic set of functionalities covered in the above linked projects should be present. 
 
 Comments: A good practice would be that if you have full stack or front-end project in mind that you want to finish by the end of this progaramme, start working on it with this and every week's task can add up to the website you want to make.
 
-<h2> Week 2 </h2>
 
-<b>Beginners: HTTP and Responsive Design </b>
+<h2> Week 2</h2>
 
-1. <a href = "https://launchschool.com/books/http/read/introduction">Introduction to HTTP </a>
-
-2. Responsive Design: <a href= "https://www.youtube.com/watch?v=VQjy_33t8cg">Media Queries</a>, <a href="https://internetingishard.com/html-and-css/responsive-images/">Responsive Images</a>, <a href ="https://www.w3schools.com/bootstrap/default.asp"> Bootstrap </a> 
-
-[Project] <a href = "https://medium.com/frontendshortcut/how-to-make-a-polaroid-photo-gallery-in-html-and-css-d68f5a306c84">Photo Gallery (Responsive; using flexbox)</a>
-
-Deliverables: 
-Complete a Photo Gallery Project with Responsive Design
-
-<b> Intermediate: Working with JavaScript and MongoDB </b>
+<b>Working with JavaScript, jQuery and MongoDB </b>
 
 1. JavaScript for Interactivity: DOM Manipulation, Event Handling, Form Validation with JS 
 
