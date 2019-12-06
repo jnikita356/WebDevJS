@@ -74,21 +74,12 @@ Addition of these concepts to the previous week's task will be a plus.
 
 <h2> Week 3 </h2>
 
-Beginners: JavaScript Fundamentals
-
-1. Book: <a href ="https://2ality.com/2013/06/basic-javascript.html"> Basic JavaScript </a>
-
-2. [more to come]
-  
-
-Intermediate: Introdcution to React
+Introduction to React
 
 [more to come]
   
 
 <h2> Week 4 </h2> 
 
-Beginners: Project Work [to be decided]
-
-Intermediate: Working with React/Angular + Node + MongoDB
+Working with React/Angular + Node + MongoDB
 
