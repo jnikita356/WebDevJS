@@ -57,7 +57,7 @@ Comments: A good practice would be that if you have full stack or front-end proj
 
 1. JavaScript for Interactivity: DOM Manipulation, Event Handling, Form Validation with JS 
 
-[Mini Project] To Do List Application using HTML,CSS, JavaScript, jQuery - <a href="https://www.youtube.com/watch?v=2wCpkOk2uCg&t=2s">1</a>,<a href ="https://www.youtube.com/watch?v=bGLZ2pwCaiI&t=157s">2</a>
+[Project] To Do List Application using HTML,CSS, JavaScript, jQuery - <a href="https://www.youtube.com/watch?v=2wCpkOk2uCg&t=2s">1</a>,<a href ="https://www.youtube.com/watch?v=bGLZ2pwCaiI&t=157s">2</a>
 
 2. JSON:
 
@@ -75,7 +75,7 @@ Comments: A good practice would be that if you have full stack or front-end proj
 
 3.3 Expand Your Knowledge: <a href="https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/">The Little MongoDB Book</a>, 
 
-3.4 Exercise: <a hred="https://www.w3resource.com/mongodb-exercises/">w3resource</a>
+[Exercise] <a hred="https://www.w3resource.com/mongodb-exercises/">w3resource</a>
 
 
 <b>Deliverables: </b>
