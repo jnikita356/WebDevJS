@@ -57,15 +57,15 @@ Comments: A good practice would be that if you have full stack or front-end proj
 
 <b>Working with JavaScript, jQuery and MongoDB </b>
 
-1. JavaScript for Interactivity: 
+1. JavaScript: 
 
-1.1 DOM Manipulation and Event Handling*
+1.1 DOM Manipulation and Event Handling
 
 1.2 Form Validation with JS: <a href ="https://www.coursera.org/learn/javascript/lecture/LhVoE/simple-validation">Coursera</a>, <a href="https://www.w3resource.com/javascript/form/javascript-form-validation.php">w3resource</a> 
 
 1.3 Debugging in JS: <a href = "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/">freeCodeCamp</a>
 
-* [Project] To Do List Application using HTML,CSS, JavaScript, jQuery - <a href="https://www.youtube.com/watch?v=2wCpkOk2uCg&t=2s">1</a>,<a href ="https://www.youtube.com/watch?v=bGLZ2pwCaiI&t=157s">2</a>
+[Project] To Do List Application using HTML,CSS, JavaScript, jQuery - <a href="https://www.youtube.com/watch?v=2wCpkOk2uCg&t=2s">1</a>,<a href ="https://www.youtube.com/watch?v=bGLZ2pwCaiI&t=157s">2</a>
 
 Suggested Additional Material: 
 
