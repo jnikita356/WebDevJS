@@ -59,17 +59,29 @@ Comments: A good practice would be that if you have full stack or front-end proj
 
 [Mini Project] To Do List Application using HTML,CSS, JavaScript, jQuery - <a href="https://www.youtube.com/watch?v=2wCpkOk2uCg&t=2s">1</a>,<a href ="https://www.youtube.com/watch?v=bGLZ2pwCaiI&t=157s">2</a>
 
+2. JSON:
 
-2. MongoDB: <a href = "https://www.youtube.com/watch?v=-56x56UppqQ">Traversy Media</a>, <a href="https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/">MongoDB Book </a>, <a href = "https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/">Getting Started with MongoDB </a>
+2.1 What is JSON: <a href = "https://www.w3schools.com/whatis/whatis_json.asp">w3schools</a>
 
-3. Node JS Basics: <a href="https://www.nodebeginner.org/">Beginner book </a> [more to come]
+2.2 Tutorials: <a href = "https://www.w3schools.com/js/js_json_intro.asp">w3schools</a>
 
-[Mini Project to come]
+2.3 Wikipedia Articles, if you're interested: <a href = "https://en.wikipedia.org/wiki/JSON">JSON</a> 
+
+3. <a href = "https://www.mongodb.com/">MongoDB</a>: 
+ 
+3.1 Installation & Getting Started: <a href = "https://www.youtube.com/watch?v=-56x56UppqQ">Traversy Media</a>, 
+
+3.2 A Basic Walkthrough: <a href = "https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/">Getting Started with MongoDB</a>
+
+3.3 Expand Your Knowledge: <a href="https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/">The Little MongoDB Book</a>, 
+
+3.4 Exercise: <a hred="https://www.w3resource.com/mongodb-exercises/">w3resource</a>
 
 
 <b>Deliverables: </b>
-Completion of the two Mini Projects.
-Addition of these concepts to the previous week's task will be a plus.
+1. Complete the Mini Project for JavaScript - it does not strictly have to be the To-Do list Application
+ 
+2. Compeletion of MongoDB Exercises 
 
 
 <h2> Week 3 </h2>
