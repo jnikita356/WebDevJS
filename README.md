@@ -75,7 +75,7 @@ Comments: A good practice would be that if you have full stack or front-end proj
 
 3.3 Expand Your Knowledge: <a href="https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/">The Little MongoDB Book</a>, 
 
-[Exercise] <a hred="https://www.w3resource.com/mongodb-exercises/">w3resource</a>
+[Exercise] <a href="https://www.w3resource.com/mongodb-exercises/">W3resource Exercises</a>
 
 
 <b>Deliverables: </b>
