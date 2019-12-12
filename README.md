@@ -78,7 +78,7 @@ Suggested Additional Material:
 
 2.2 Tutorials: <a href = "https://www.w3schools.com/js/js_json_intro.asp">w3schools</a>
 
-2.3 Wikipedia Articles, if you're interested: <a href = "https://en.wikipedia.org/wiki/JSON">JSON</a> 
+2.3 Wikipedia Article, if you're interested: <a href = "https://en.wikipedia.org/wiki/JSON">JSON</a> 
 
 
 3. <a href = "https://www.mongodb.com/">MongoDB</a>: 
