@@ -59,7 +59,7 @@ Comments: A good practice would be that if you have full stack or front-end proj
 
 JavaScript: 
 
-1.1 <>DOM Manipulation<> and Event Handling
+1.1 DOM Manipulation and Event Handling
 
 1.2 Form Validation with JS: <a href ="https://www.coursera.org/learn/javascript/lecture/LhVoE/simple-validation">Coursera</a>, <a href="https://www.w3resource.com/javascript/form/javascript-form-validation.php">w3resource</a> 
 
