@@ -97,7 +97,6 @@ Complete the Mini Project for JavaScript - it does not strictly have to be the T
 
 
 <b>Deliverables: </b>
-
 Compeletion of MongoDB Exercises 
 
 <h2> Week 4 </h2>
