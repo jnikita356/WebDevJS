@@ -55,7 +55,7 @@ Comments: A good practice would be that if you have full stack or front-end proj
 
 <h2> Week 2</h2>
 
-<b>Working with JavaScript, jQuery and MongoDB </b>
+<b>Working with JavaScript, jQuery </b>
 
 JavaScript: 
 
@@ -73,6 +73,8 @@ Complete the Mini Project for JavaScript - it does not strictly have to be the T
 
 
 <h2> Week 3 </h2> 
+
+<b> MongoDB </b>
 
 1. JSON:
 
