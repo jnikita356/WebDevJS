@@ -57,53 +57,47 @@ Comments: A good practice would be that if you have full stack or front-end proj
 
 <b>Working with JavaScript, jQuery and MongoDB </b>
 
-1. JavaScript: 
+JavaScript: 
 
-1.1 DOM Manipulation and Event Handling
+1.1 <>DOM Manipulation<> and Event Handling
 
 1.2 Form Validation with JS: <a href ="https://www.coursera.org/learn/javascript/lecture/LhVoE/simple-validation">Coursera</a>, <a href="https://www.w3resource.com/javascript/form/javascript-form-validation.php">w3resource</a> 
 
-1.3 Debugging in JS: <a href = "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/">freeCodeCamp</a>
+1.3 Exercise based learning: <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/">freeCodeCamp</a> 
 
 [Project] To Do List Application using HTML,CSS, JavaScript, jQuery - <a href="https://www.youtube.com/watch?v=2wCpkOk2uCg&t=2s">1</a>,<a href ="https://www.youtube.com/watch?v=bGLZ2pwCaiI&t=157s">2</a>
 
-Suggested Additional Material: 
 
-<a href = "https://www.coursera.org/learn/javascript/peer/xQRc9/autocomplete-with-javascript">Interactivity with JavaScript by University of Michigan on Coursera: Assignment 4</a>
-
-
-2. JSON:
-
-2.1 What is JSON: <a href = "https://www.w3schools.com/whatis/whatis_json.asp">w3schools</a>
-
-2.2 Tutorials: <a href = "https://www.w3schools.com/js/js_json_intro.asp">w3schools</a>
-
-2.3 Wikipedia Article, if you're interested: <a href = "https://en.wikipedia.org/wiki/JSON">JSON</a> 
+<b>Deliverables: </b>
+Complete the Mini Project for JavaScript - it does not strictly have to be the To-Do list Application
 
 
-3. <a href = "https://www.mongodb.com/">MongoDB</a>: 
+<h2> Week 3 </h2> 
+
+1. JSON:
+
+1.1 What is JSON: <a href = "https://www.w3schools.com/whatis/whatis_json.asp">w3schools</a>
+
+1.2 Tutorials: <a href = "https://www.w3schools.com/js/js_json_intro.asp">w3schools</a>
+
+1.3 Wikipedia Article, if you're interested: <a href = "https://en.wikipedia.org/wiki/JSON">JSON</a> 
+
+
+2. <a href = "https://www.mongodb.com/">MongoDB</a>: 
  
-3.1 Installation & Getting Started: <a href = "https://www.youtube.com/watch?v=-56x56UppqQ">Traversy Media</a>, 
+2.1 Installation & Getting Started: <a href = "https://www.youtube.com/watch?v=-56x56UppqQ">Traversy Media</a>, 
 
-3.2 A Basic Walkthrough: <a href = "https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/">Getting Started with MongoDB</a>
+2.2 A Basic Walkthrough: <a href = "https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/">Getting Started with MongoDB</a>
 
-3.3 Expand Your Knowledge: <a href="https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/">The Little MongoDB Book</a>, 
+2.3 Expand Your Knowledge: <a href="https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/">The Little MongoDB Book</a>, 
 
 [Exercise] <a href="https://www.w3resource.com/mongodb-exercises/">W3resource Exercises</a>
 
 
 <b>Deliverables: </b>
-1. Complete the Mini Project for JavaScript - it does not strictly have to be the To-Do list Application
- 
-2. Compeletion of MongoDB Exercises 
 
+Compeletion of MongoDB Exercises 
 
-<h2> Week 3 </h2>
+<h2> Week 4 </h2>
 
-Introduction to React
-  
-
-<h2> Week 4 </h2> 
-
-Working with React/Angular + Node + MongoDB
-
+Final Project
